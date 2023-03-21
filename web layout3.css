@@ -1,0 +1,34 @@
+.header{ overflow:auto;  background-color:#0c3356; }
+.headercontainer{ width:30%; text-align:center; background-color:#0c3356; display:inline-block; overflow:auto; }
+.fb{height:20px; width:20px; margin:10px 15px }
+.youtube{height:20px; width:20px; margin:10px 15px; background-color:#0c3356 }
+.contact{display:inline-block;  width:32%; padding:0px 0px; float:right;   background-color:#0c3356; color:white}
+.phone{height:20px; width:20px; vertical-align:middle;}
+.number{display:inline-block; margin:5px; 10px; }
+.gmail{height:20px; width:20px; vertical-align:middle; margin-left:25px}
+.gmailaddress{display:inline-block; margin:10px; 5px}
+.arrivecontainer{border:2px solid green; background-color:snowwhite}
+.arrive{border:0px solid blue; display:inline-block; width:10%; text-align:right;  font-family:cursive;  font-size:20px}
+.menucontainer{display:inline-block; border:0px solid orange; width:85%; text-align:right; }
+.home{display:inline-block; padding:10px 20px; font-family:FrankRuehl; color:#533c3c; font-weight:bold}
+.home:hover{display:inline-block; padding:10px 20px; font-family:FrankRuehl; color:white; font-weight:bold; background-color:#5bcd91;}
+.planet{width:30px; height:30px; vertical-align:middle; margin:0px 10px}
+.active{background-color:#3ec882; color:white }
+.mind{width:100%; height:400px}
+.us{display:inline-block; margin:10px 0px; width:40%; text-align:center}
+.attention{ margin:8px 0px; width:90%; text-align:left; padding:0px 40px}
+.clock{width:80%;  text-align:center; display:inline-block}
+.icon{vertical-align:middle; height:50px; width:50px; margin:-5px 0px; display:inline-block}
+.button{width:22%; text-align:center; margin:10px; display:inline-block;}
+.more{border:none; padding:5px; background-color:#3ec882; color:white}
+.handimage{width:45%; display:inline-block;  margin:0px 5px; padding:0px 0px; background-color:#f5f5f5}
+
+.helpinghand{width:100%; display:inline-block; margin:0px 5px; padding:0px; height:310px; background-color:#f5f5f5}
+.body{display:inline-block; width:50%; background-color:#f5f5f5}
+.footer{text-align:center; margin:30px}
+.attentions{text-align:center}
+.contacttwo{width:50px; height:40px;  background-color:white}
+.dataone{display:inline-block; margin:10px 20px; text-align:center; width:20%; border:1px solid grey; box-shadow:2px 2px 2px}
+.enddata{border:2px solid grey; background-color:white; text-align:center }
+h5{margin-bottom:5px}
+hr{width:35px; margin-top:0px}
